@@ -1,0 +1,111 @@
+
+.loc{
+  position: relative;
+  right: -17%;
+  font-size: large;
+}
+
+.nav-img {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .topnav {
+    background-color: transparent;
+    /*overflow: hidden;*/
+    position: absolute;
+    top: 20px;
+    left: 23%;
+    right: 18%;
+    background-color: transparent;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color:white;
+    text-align: center;
+    padding: 16px 1px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  /*Change the color of links on hover */
+  .topnav a:hover {
+    color: darkslategray;
+    background-color: grey;
+  }
+
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .second{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+  }
+
+  .about{
+    text-align: justify;
+    width: 75%;
+  }
+
+  .link{
+    width: 150%;
+    padding-left: 30px;
+  }
+
+  .link a:hover{
+    color: blue;
+  }
+
+  .alumni
+  {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 100%;
+  }
+
+
+  .card{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .more{
+    float: right;
+    padding-top: 10px;
+  }
+
+  .recruiters{
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+
+  .company{
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+
+  .company img{
+    width: 100%;
+    padding-left: 5%;
+  }
+
+  .message{
+    padding-top: 90px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
